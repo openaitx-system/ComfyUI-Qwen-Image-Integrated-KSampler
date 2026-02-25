@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=luguoli&project=ComfyUI-Qwen-Image-Integrated-KSampler&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🐋 Qwen Image Integrated KSampler
 
 [![GitHub](https://img.shields.io/badge/GitHub-luguoli-orange)](https://github.com/luguoli)
